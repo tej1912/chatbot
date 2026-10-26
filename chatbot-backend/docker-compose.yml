@@ -1,0 +1,35 @@
+# chatbot-backend: API + Redis.
+# The database is Neon (hosted Postgres), set DATABASE_URL in .env. No local Postgres.
+#
+#   docker compose up -d --build
+#   docker compose logs backend -f
+#
+# Using a hosted Redis (e.g. Upstash)? Set REDIS_URL in .env and delete the
+# "redis" service and the depends_on block below.
+services:
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    volumes:
+      - redisdata:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      REDIS_URL: redis://redis:6379/0
+    ports:
+      - "8000:8000"
+    depends_on:
+      redis:
+        condition: service_healthy
+
+volumes:
+  redisdata:

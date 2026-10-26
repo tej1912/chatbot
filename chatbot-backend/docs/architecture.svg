@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1760" viewBox="0 0 2400 1760" font-family="DejaVu Sans, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MDg2Y2I0ZS0yODQ3LTRjZDMtOWExMi1iM2UxNTVmMWNmNWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNpBnYWG7EgRqqG8DRffJzIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowMWMwNDAyMy1iYjY3LTQyNTktODdmMy0wMzhmNTFjZDFhZGVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoe7pjYLizX3oECdYtKep6GgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTvOpnvPDjnDbr9OGgikBoFGWVJniQR2sDmY4tMWe9aakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJD7EE9wuWs9eUd0rcl5JOsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDj8w0oFr3MvqunH7R3+ui0za7I5MBJgVyTx2ok//xsLWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUwODZjYjRlLTI4NDctNGNkMy05YTEyLWIzZTE1NWYxY2Y1Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjUwM2Q2MTgwLTQ4NTQtNDY5MS1iYWMyLWVmOGVlNGEzYWMwOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBO86me88OOcNuv04aCKQGgUZZUmeJBHawOZji0xZ71pqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgguirTSBb01gOblfP9LActzeEQnqWRqrnlhL43SFdm7HGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEtmONs2gyzmCN6ftpM2sbciCmEKTK7Nkob++IDd+XOR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQN6DZfrOXuqsB2QQvpbenzEs/Q1YQbKqbs84i+wNZHlnGCH01dl88VrX7kPdnYDxRXBY8z6MrpPvdCsXHWhqhCA=</c2pa:manifest></metadata>
+<defs><marker id="ah" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#2d3748"/></marker></defs>
+<rect width="2400" height="1760" fill="#ffffff"/>
+<text x="40" y="48" font-size="36" font-weight="800" fill="#1a202c">RAG Chat Assistant — Full Architecture &amp; Flow</text>
+<text x="40" y="76" font-size="19" fill="#4A5568">FastAPI · Postgres + pgvector · Redis · Groq / Claude · NeMo Guardrails · local embeddings (bge-small, 384-dim)</text>
+<rect x="1500" y="34" width="22" height="22" rx="5" fill="#E8F1FD" stroke="#2B6CB0" stroke-width="2.5"/><text x="1528" y="52" font-size="15" fill="#1a202c">Client</text>
+<rect x="1645" y="34" width="22" height="22" rx="5" fill="#F1ECFB" stroke="#6B46C1" stroke-width="2.5"/><text x="1673" y="52" font-size="15" fill="#1a202c">API / security</text>
+<rect x="1790" y="34" width="22" height="22" rx="5" fill="#E6F6EC" stroke="#2F855A" stroke-width="2.5"/><text x="1818" y="52" font-size="15" fill="#1a202c">Chat pipeline</text>
+<rect x="1935" y="34" width="22" height="22" rx="5" fill="#FFF2E0" stroke="#C05621" stroke-width="2.5"/><text x="1963" y="52" font-size="15" fill="#1a202c">Data</text>
+<rect x="2080" y="34" width="22" height="22" rx="5" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/><text x="2108" y="52" font-size="15" fill="#1a202c">External</text>
+<rect x="2225" y="34" width="22" height="22" rx="5" fill="#FDECEC" stroke="#C53030" stroke-width="2.5"/><text x="2253" y="52" font-size="15" fill="#1a202c">Not built yet</text>
+<text x="40" y="102" font-size="25" font-weight="800" fill="#1a202c" letter-spacing="1.5">1 · CHAT FLOW  (visitor asks a question)</text>
+<rect x="40" y="130" width="360" height="330" rx="14" fill="#E8F1FD" stroke="#2B6CB0" stroke-width="2.5"/>
+<text x="56" y="162" font-size="21" font-weight="700" fill="#2B6CB0">Visitor browser · widget</text>
+<text x="58" y="195" font-size="17" fill="#1a202c">widget.js + widget.css (1 script tag)</text>
+<text x="58" y="220" font-size="17" fill="#1a202c">• Session token in localStorage</text>
+<text x="58" y="245" font-size="17" fill="#1a202c">• Cloudflare Turnstile (optional)</text>
+<text x="58" y="270" font-size="17" fill="#1a202c">• Reads SSE stream live</text>
+<text x="58" y="295" font-size="17" fill="#1a202c">• Safe markdown renderer (no XSS)</text>
+<text x="58" y="320" font-size="17" fill="#1a202c">• 401 → auto new session</text>
+<text x="58" y="345" font-size="17" fill="#1a202c">• 429 → friendly "slow down"</text>
+<text x="58" y="370" font-size="17" fill="#1a202c">• Debug logs retrieved chunks (dev)</text>
+<rect x="450" y="130" width="400" height="330" rx="14" fill="#F1ECFB" stroke="#6B46C1" stroke-width="2.5"/>
+<text x="466" y="162" font-size="21" font-weight="700" fill="#6B46C1">FastAPI API layer</text>
+<text x="468" y="195" font-size="17" fill="#1a202c">POST /v1/session  → signed token</text>
+<text x="468" y="220" font-size="17" fill="#1a202c">POST /v1/chat     → SSE stream</text>
+<text x="468" y="245" font-size="17" fill="#1a202c">• CORS allow-list · security headers</text>
+<text x="468" y="270" font-size="17" fill="#1a202c">• HMAC token verify (401)</text>
+<text x="468" y="295" font-size="17" fill="#1a202c">• Rate limits (429 + Retry-After):</text>
+<text x="468" y="320" font-size="17" fill="#1a202c">   per session/min · per IP/min</text>
+<text x="468" y="345" font-size="17" fill="#1a202c">   per IP/day · new sessions/min</text>
+<text x="468" y="370" font-size="17" fill="#1a202c">• Pydantic validation (2000 chars)</text>
+<rect x="40" y="500" width="810" height="250" rx="14" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/>
+<text x="56" y="532" font-size="21" font-weight="700" fill="#4A5568">Ops &amp; safety nets</text>
+<text x="58" y="565" font-size="17" fill="#1a202c">/healthz (alive) · /readyz (DB required, Redis = degraded OK)</text>
+<text x="58" y="590" font-size="17" fill="#1a202c">/v1/admin/usage → today's messages &amp; tokens vs caps</text>
+<text x="58" y="615" font-size="17" fill="#1a202c">Config 100% from env (.env) · pydantic-settings</text>
+<text x="58" y="640" font-size="17" fill="#1a202c">Production mode REFUSES to start with weak keys / CORS "*"</text>
+<text x="58" y="665" font-size="17" fill="#1a202c">DB init under Postgres advisory lock (multi-worker safe)</text>
+<text x="58" y="690" font-size="17" fill="#1a202c">Redis down → in-process fallback, chat keeps working</text>
+<text x="58" y="715" font-size="17" fill="#1a202c">Optional Langfuse tracing: 1 trace per chat (off by default)</text>
+<rect x="910" y="130" width="640" height="640" rx="14" fill="#E6F6EC" stroke="#2F855A" stroke-width="2.5"/>
+<text x="926" y="162" font-size="21" font-weight="700" fill="#2F855A">chat_service.handle_chat()  — the brain</text>
+<circle cx="948" cy="198" r="16" fill="#2F855A"/><text x="948" y="204" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="976" y="196" font-size="18" font-weight="700" fill="#1a202c">Regex guard</text>
+<text x="976" y="216" font-size="14.5" fill="#4A5568">injection patterns, length ≤ 4000</text>
+<circle cx="948" cy="246" r="16" fill="#2F855A"/><text x="948" y="252" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="976" y="244" font-size="18" font-weight="700" fill="#1a202c">Smalltalk</text>
+<text x="976" y="264" font-size="14.5" fill="#4A5568">hi / thanks / bye → canned reply, $0</text>
+<circle cx="948" cy="294" r="16" fill="#2F855A"/><text x="948" y="300" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="976" y="292" font-size="18" font-weight="700" fill="#1a202c">NeMo guard (optional)</text>
+<text x="976" y="312" font-size="14.5" fill="#4A5568">LLM self-check input rail</text>
+<circle cx="948" cy="342" r="16" fill="#2F855A"/><text x="948" y="348" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="976" y="340" font-size="18" font-weight="700" fill="#1a202c">History + rewrite</text>
+<text x="976" y="360" font-size="14.5" fill="#4A5568">follow-up → standalone question</text>
+<circle cx="948" cy="390" r="16" fill="#2F855A"/><text x="948" y="396" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="976" y="388" font-size="18" font-weight="700" fill="#1a202c">Embed query</text>
+<text x="976" y="408" font-size="14.5" fill="#4A5568">bge-small local, 384-dim</text>
+<circle cx="948" cy="438" r="16" fill="#2F855A"/><text x="948" y="444" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<text x="976" y="436" font-size="18" font-weight="700" fill="#1a202c">Answer cache</text>
+<text x="976" y="456" font-size="14.5" fill="#4A5568">key = version + category + embedding</text>
+<circle cx="948" cy="486" r="16" fill="#2F855A"/><text x="948" y="492" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<text x="976" y="484" font-size="18" font-weight="700" fill="#1a202c">Hybrid retrieval</text>
+<text x="976" y="504" font-size="14.5" fill="#4A5568">pgvector cosine + full-text → RRF</text>
+<circle cx="948" cy="534" r="16" fill="#2F855A"/><text x="948" y="540" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">8</text>
+<text x="976" y="532" font-size="18" font-weight="700" fill="#1a202c">Confidence check</text>
+<text x="976" y="552" font-size="14.5" fill="#4A5568">&lt; 0.40 → "not sure", no LLM call</text>
+<circle cx="948" cy="582" r="16" fill="#2F855A"/><text x="948" y="588" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">9</text>
+<text x="976" y="580" font-size="18" font-weight="700" fill="#1a202c">Tier router</text>
+<text x="976" y="600" font-size="14.5" fill="#4A5568">fast gpt-oss-20b / complex 120b</text>
+<circle cx="948" cy="630" r="16" fill="#2F855A"/><text x="948" y="636" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">10</text>
+<text x="976" y="628" font-size="18" font-weight="700" fill="#1a202c">Budget reserve</text>
+<text x="976" y="648" font-size="14.5" fill="#4A5568">daily message + token caps</text>
+<circle cx="948" cy="678" r="16" fill="#2F855A"/><text x="948" y="684" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">11</text>
+<text x="976" y="676" font-size="18" font-weight="700" fill="#1a202c">Stream LLM answer</text>
+<text x="976" y="696" font-size="14.5" fill="#4A5568">SSE tokens, max 350, timeout 25s</text>
+<circle cx="948" cy="726" r="16" fill="#2F855A"/><text x="948" y="732" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">12</text>
+<text x="976" y="724" font-size="18" font-weight="700" fill="#1a202c">Output guard + save</text>
+<text x="976" y="744" font-size="14.5" fill="#4A5568">PII check → cache → Redis + Postgres</text>
+<rect x="1640" y="130" width="310" height="86" rx="14" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/>
+<text x="1656" y="162" font-size="21" font-weight="700" fill="#4A5568">Cloudflare Turnstile</text>
+<text x="1658" y="194" font-size="16" fill="#1a202c">verifies captcha (free)</text>
+<rect x="1640" y="236" width="310" height="128" rx="14" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/>
+<text x="1656" y="268" font-size="21" font-weight="700" fill="#4A5568">NeMo guard LLM</text>
+<text x="1658" y="300" font-size="16" fill="#1a202c">Groq gpt-oss-20b</text>
+<text x="1658" y="324" font-size="16" fill="#1a202c">Yes/No "block this?"</text>
+<text x="1658" y="348" font-size="16" fill="#1a202c">fail open / closed</text>
+<rect x="1640" y="384" width="310" height="100" rx="14" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/>
+<text x="1656" y="416" font-size="21" font-weight="700" fill="#4A5568">Cohere rerank</text>
+<text x="1658" y="448" font-size="16" fill="#1a202c">optional · off by default</text>
+<rect x="1640" y="504" width="310" height="236" rx="14" fill="#EEF0F3" stroke="#4A5568" stroke-width="2.5"/>
+<text x="1656" y="536" font-size="21" font-weight="700" fill="#4A5568">LLM providers</text>
+<text x="1658" y="568" font-size="16" fill="#1a202c">FAST  : Groq gpt-oss-20b</text>
+<text x="1658" y="592" font-size="16" fill="#1a202c">COMPLEX: Groq gpt-oss-120b</text>
+<text x="1658" y="616" font-size="16" fill="#1a202c">or Claude Haiku / Sonnet</text>
+<text x="1658" y="640" font-size="16" fill="#1a202c">(switch via env, no code)</text>
+<text x="1658" y="664" font-size="16" fill="#1a202c">Also used for query rewrite</text>
+<rect x="2000" y="130" width="360" height="610" rx="14" fill="#FFF2E0" stroke="#C05621" stroke-width="2.5"/>
+<text x="2016" y="162" font-size="21" font-weight="700" fill="#C05621">Redis (Upstash)</text>
+<text x="2018" y="195" font-size="17" fill="#1a202c">Not a source of truth —</text>
+<text x="2018" y="220" font-size="17" fill="#1a202c">safe to lose.</text>
+<text x="2018" y="245" font-size="17" fill="#1a202c"></text>
+<text x="2018" y="270" font-size="17" fill="#1a202c">• Chat history</text>
+<text x="2018" y="295" font-size="17" fill="#1a202c">   last 6 msgs · 30 min TTL</text>
+<text x="2018" y="320" font-size="17" fill="#1a202c">• Answer cache</text>
+<text x="2018" y="345" font-size="17" fill="#1a202c">   1 h · versioned</text>
+<text x="2018" y="370" font-size="17" fill="#1a202c">• Rate-limit windows</text>
+<text x="2018" y="395" font-size="17" fill="#1a202c">   sliding window (sorted sets)</text>
+<text x="2018" y="420" font-size="17" fill="#1a202c">• Daily budget counters</text>
+<text x="2018" y="445" font-size="17" fill="#1a202c">   messages + est. tokens</text>
+<text x="2018" y="470" font-size="17" fill="#1a202c">• Cache version counter</text>
+<text x="2018" y="495" font-size="17" fill="#1a202c">   bumped on every ingest</text>
+<text x="2018" y="520" font-size="17" fill="#1a202c"></text>
+<text x="2018" y="545" font-size="17" fill="#1a202c">Down? → in-process fallback</text>
+<text x="2018" y="570" font-size="17" fill="#1a202c">(per worker, looser limits)</text>
+<rect x="40" y="830" width="1920" height="250" rx="14" fill="#FFF2E0" stroke="#C05621" stroke-width="2.5"/>
+<text x="56" y="862" font-size="21" font-weight="700" fill="#C05621">Postgres + pgvector (Neon / Supabase)  — the real data. Back this up.</text>
+<rect x="60" y="880" width="600" height="180" rx="10" fill="#fff" stroke="#C05621" stroke-width="1.8"/>
+<text x="76" y="912" font-size="20" font-weight="700" fill="#C05621">table: documents</text>
+<text x="78" y="942" font-size="17" fill="#1a202c">id · title · url</text>
+<text x="78" y="969" font-size="17" fill="#1a202c">category · created_at</text>
+<text x="78" y="996" font-size="17" fill="#1a202c">one row per source</text>
+<rect x="690" y="880" width="600" height="180" rx="10" fill="#fff" stroke="#C05621" stroke-width="1.8"/>
+<text x="706" y="912" font-size="20" font-weight="700" fill="#C05621">table: chunks</text>
+<text x="708" y="942" font-size="17" fill="#1a202c">content · header_context</text>
+<text x="708" y="969" font-size="17" fill="#1a202c">embedding vector(384)</text>
+<text x="708" y="996" font-size="17" fill="#1a202c">full-text search on content</text>
+<text x="708" y="1023" font-size="17" fill="#1a202c">cascade-deleted with document</text>
+<rect x="1320" y="880" width="600" height="180" rx="10" fill="#fff" stroke="#C05621" stroke-width="1.8"/>
+<text x="1336" y="912" font-size="20" font-weight="700" fill="#C05621">table: conversation_messages</text>
+<text x="1338" y="942" font-size="17" fill="#1a202c">session_id · role · content</text>
+<text x="1338" y="969" font-size="17" fill="#1a202c">retrieval_score · created_at</text>
+<text x="1338" y="996" font-size="17" fill="#1a202c">permanent chat log</text>
+<text x="1338" y="1023" font-size="17" fill="#1a202c">(needs a retention rule)</text>
+<polyline points="400,295 450,295" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<polyline points="850,295 910,295" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<text x="403" y="282" font-size="14" fill="#2d3748" font-style="italic">HTTPS</text>
+<polyline points="650,130 650,116 1795,116 1795,130" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<text x="1040" y="108" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">verify captcha (once per session)</text>
+<polyline points="1550,294 1640,294" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<polyline points="1550,486 1640,486" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<polyline points="1550,678 1640,678" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<polyline points="1250,770 1250,800 2120,800 2120,740" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<text x="1450" y="822" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">history · cache · limits · budget</text>
+<polyline points="1000,770 1000,830" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<text x="1030" y="818" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">hybrid search · save chat</text>
+<text x="40" y="1140" font-size="25" font-weight="800" fill="#1a202c" letter-spacing="1.5">2 · INGEST FLOW  (admin adds knowledge — text or PDF)</text>
+<rect x="40" y="1160" width="345" height="200" rx="14" fill="#E8F1FD" stroke="#2B6CB0" stroke-width="2.5"/>
+<text x="56" y="1192" font-size="21" font-weight="700" fill="#2B6CB0">Admin (you)</text>
+<text x="58" y="1225" font-size="17" fill="#1a202c">curl / PowerShell</text>
+<text x="58" y="1250" font-size="17" fill="#1a202c">header X-Admin-Key</text>
+<text x="58" y="1275" font-size="17" fill="#1a202c">constant-time check</text>
+<text x="58" y="1300" font-size="17" fill="#1a202c">fails closed if unset</text>
+<rect x="411" y="1160" width="345" height="200" rx="14" fill="#F1ECFB" stroke="#6B46C1" stroke-width="2.5"/>
+<text x="427" y="1192" font-size="21" font-weight="700" fill="#6B46C1">Ingest API</text>
+<text x="429" y="1225" font-size="17" fill="#1a202c">POST /v1/ingest (text)</text>
+<text x="429" y="1250" font-size="17" fill="#1a202c">POST /v1/ingest/pdf ≤ 20 MB</text>
+<text x="429" y="1275" font-size="17" fill="#1a202c">GET /v1/documents</text>
+<text x="429" y="1300" font-size="17" fill="#1a202c">DELETE /v1/documents/{id}</text>
+<polyline points="385,1260 411,1260" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="782" y="1160" width="345" height="200" rx="14" fill="#E6F6EC" stroke="#2F855A" stroke-width="2.5"/>
+<text x="798" y="1192" font-size="21" font-weight="700" fill="#2F855A">PDF extract</text>
+<text x="800" y="1225" font-size="17" fill="#1a202c">pdfplumber, page by page</text>
+<text x="800" y="1250" font-size="17" fill="#1a202c">each page → "# Page N"</text>
+<text x="800" y="1275" font-size="17" fill="#1a202c">scanned PDF → clear error</text>
+<text x="800" y="1300" font-size="17" fill="#1a202c">(no OCR yet)</text>
+<polyline points="756,1260 782,1260" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="1153" y="1160" width="345" height="200" rx="14" fill="#E6F6EC" stroke="#2F855A" stroke-width="2.5"/>
+<text x="1169" y="1192" font-size="21" font-weight="700" fill="#2F855A">Chunker</text>
+<text x="1171" y="1225" font-size="17" fill="#1a202c">split at # headers (sections)</text>
+<text x="1171" y="1250" font-size="17" fill="#1a202c">FAQ Q/A pairs stay whole</text>
+<text x="1171" y="1275" font-size="17" fill="#1a202c">else recursive ~500 tok</text>
+<text x="1171" y="1300" font-size="17" fill="#1a202c">15% overlap · header kept</text>
+<polyline points="1127,1260 1153,1260" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="1524" y="1160" width="345" height="200" rx="14" fill="#E6F6EC" stroke="#2F855A" stroke-width="2.5"/>
+<text x="1540" y="1192" font-size="21" font-weight="700" fill="#2F855A">Embedder</text>
+<text x="1542" y="1225" font-size="17" fill="#1a202c">"header + chunk" text</text>
+<text x="1542" y="1250" font-size="17" fill="#1a202c">batches of 64</text>
+<text x="1542" y="1275" font-size="17" fill="#1a202c">bge-small local · retry 3×</text>
+<text x="1542" y="1300" font-size="17" fill="#1a202c">embed BEFORE touching DB</text>
+<polyline points="1498,1260 1524,1260" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="1895" y="1160" width="345" height="200" rx="14" fill="#FFF2E0" stroke="#C05621" stroke-width="2.5"/>
+<text x="1911" y="1192" font-size="21" font-weight="700" fill="#C05621">Replace + insert</text>
+<text x="1913" y="1225" font-size="17" fill="#1a202c">delete old version</text>
+<text x="1913" y="1250" font-size="17" fill="#1a202c">(match url, else title)</text>
+<text x="1913" y="1275" font-size="17" fill="#1a202c">insert Document + Chunks</text>
+<text x="1913" y="1300" font-size="17" fill="#1a202c">one transaction</text>
+<polyline points="1869,1260 1895,1260" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<polyline points="1930,1160 1930,1080" fill="none" stroke="#2d3748" stroke-width="3" marker-end="url(#ah)"/>
+<text x="1705" y="1128" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">insert chunks + vectors</text>
+<polyline points="2210,1160 2210,740" fill="none" stroke="#2d3748" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#ah)"/>
+<text x="2222" y="1000" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">bump cache</text>
+<text x="2222" y="1020" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">version → old</text><text x="2222" y="1040" font-size="16" font-style="italic" fill="#2d3748" font-weight="600">answers stale</text>
+<text x="40" y="1420" font-size="25" font-weight="800" fill="#1a202c" letter-spacing="1.5">3 · BUILD, TEST &amp; DEPLOY</text>
+<rect x="40" y="1440" width="1130" height="130" rx="14" fill="#E3F5F5" stroke="#2C7A7B" stroke-width="2.5"/>
+<text x="56" y="1472" font-size="21" font-weight="700" fill="#2C7A7B">Docker (docker-compose for dev)</text>
+<text x="58" y="1504" font-size="16" fill="#1a202c">db: pgvector/pgvector:pg16 · redis:7 · backend (dev --reload)</text>
+<text x="58" y="1528" font-size="16" fill="#1a202c">Image: python 3.11-slim, embedding model baked in, non-root user, uvicorn workers + proxy headers</text>
+<text x="58" y="1552" font-size="16" fill="#1a202c">Production: backend on Railway · Postgres on Neon/Supabase · Redis on Upstash</text>
+<rect x="1200" y="1440" width="1160" height="130" rx="14" fill="#E3F5F5" stroke="#2C7A7B" stroke-width="2.5"/>
+<text x="1216" y="1472" font-size="21" font-weight="700" fill="#2C7A7B">Quality</text>
+<text x="1218" y="1504" font-size="16" fill="#1a202c">pytest: 85 tests, all externals stubbed (api, cache fallback, chat service, chunking, guardrails, security)</text>
+<text x="1218" y="1528" font-size="16" fill="#1a202c">RAGAS eval skeleton + golden Q&amp;A set (eval/) · sample PDF for upload tests</text>
+<text x="1218" y="1552" font-size="16" fill="#1a202c">Spend ceiling: DAILY_LLM_MESSAGE_CAP / DAILY_TOKEN_CAP bound the LLM bill</text>
+<text x="40" y="1612" font-size="25" font-weight="800" fill="#1a202c" letter-spacing="1.5">4 · STILL TO ADD  (dashed = not built yet)</text>
+<rect x="40" y="1630" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="54" y="1657" font-size="16" fill="#1a202c">Admin dashboard (cost, errors, chats)</text>
+<rect x="508" y="1630" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="522" y="1657" font-size="16" fill="#1a202c">Sentry error alerts (Langfuse tracing is done)</text>
+<rect x="976" y="1630" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="990" y="1657" font-size="16" fill="#1a202c">Human handoff (email / ticket)</text>
+<rect x="1444" y="1630" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="1458" y="1657" font-size="16" fill="#1a202c">Fallback LLM (Groq ⇄ Claude auto-switch)</text>
+<rect x="1912" y="1630" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="1926" y="1657" font-size="16" fill="#1a202c">Chat-log retention + delete</text>
+<rect x="40" y="1682" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="54" y="1709" font-size="16" fill="#1a202c">content/ in git + ingest_all script</text>
+<rect x="508" y="1682" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="522" y="1709" font-size="16" fill="#1a202c">Postgres backup job</text>
+<rect x="976" y="1682" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="990" y="1709" font-size="16" fill="#1a202c">Alembic migrations · CI pipeline</text>
+<rect x="1444" y="1682" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="1458" y="1709" font-size="16" fill="#1a202c">Site crawler (ingest by URL)</text>
+<rect x="1912" y="1682" width="448" height="42" rx="10" fill="#FDECEC" stroke="#C53030" stroke-width="2" stroke-dasharray="8 5"/><text x="1926" y="1709" font-size="16" fill="#1a202c">Feedback 👍 / 👎 · multi-tenant · OCR</text>
+</svg>
