@@ -53,8 +53,8 @@ async def lifespan(app: FastAPI):
         if problems:
             raise RuntimeError("Refusing to start in production: " + "; ".join(problems))
     else:
-        if not settings.admin_api_key:
-            logger.warning("ADMIN_API_KEY not set - ingest/delete endpoints will refuse all requests")
+        if settings.admin_auth and not settings.admin_api_key:
+            logger.warning("ADMIN_AUTH=true but ADMIN_API_KEY not set - admin endpoints will refuse all requests")
         if settings.effective_session_secret == DEV_SESSION_SECRET:
             logger.warning("SESSION_SECRET not set - using an insecure dev secret (fine locally only)")
 

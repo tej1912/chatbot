@@ -24,6 +24,12 @@ class Settings(BaseSettings):
 
     llm_timeout_seconds: float = 25.0
 
+    # Optional fallback when Groq fails: OpenRouter (free models). Empty key = disabled.
+    # The model list lives in .env only (free models change often), comma separated, tried in order.
+    openrouter_api_key: str = ""
+    openrouter_models: str = ""
+    openrouter_timeout_seconds: float = 20.0
+
     # Embeddings
     embedding_provider: str = "local"
     openai_api_key: str = ""
@@ -58,6 +64,9 @@ class Settings(BaseSettings):
     app_env: str = "development"
     cors_origins: str = "*"
     session_ttl_seconds: int = 1800  # Redis chat-history TTL
+    # false = admin console and admin API open, no password (put the admin behind your own
+    # network/VPN/proxy auth). true = every admin call needs the X-Admin-Key header.
+    admin_auth: bool = False
     admin_api_key: str = ""
     session_secret: str = ""
     session_token_ttl_seconds: int = 43200  # signed session token lifetime (12h)
@@ -92,7 +101,7 @@ class Settings(BaseSettings):
         problems = []
         if self.database_url == DEFAULT_DATABASE_URL:
             problems.append("DATABASE_URL must be set (postgresql+psycopg2://...)")
-        if not self.admin_api_key or len(self.admin_api_key) < 24:
+        if self.admin_auth and (not self.admin_api_key or len(self.admin_api_key) < 24):
             problems.append("ADMIN_API_KEY must be set (24+ chars)")
         if not self.session_secret or len(self.session_secret) < 32:
             problems.append("SESSION_SECRET must be set (32+ chars)")

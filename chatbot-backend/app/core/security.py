@@ -1,7 +1,7 @@
 """
 Security helpers.
 
-- Admin auth: `X-Admin-Key` header, constant-time compare. Fails CLOSED: if
+- Admin auth (only when ADMIN_AUTH=true): `X-Admin-Key` header, constant-time compare. Fails CLOSED: if
   ADMIN_API_KEY isn't configured, admin endpoints refuse everything.
 - Server-issued sessions: the client can no longer invent a session_id (which
   let attackers dodge per-session rate limits by rotating ids). POST
@@ -30,6 +30,8 @@ TOKEN_VERSION = "v1"
 
 def require_admin(x_admin_key: str | None = Header(default=None)) -> None:
     """FastAPI dependency guarding ingest/delete/list endpoints."""
+    if not settings.admin_auth:
+        return  # ADMIN_AUTH=false: admin is open (no login)
     if not settings.admin_api_key:
         raise HTTPException(status_code=503, detail="Admin API key not configured on server")
     if not x_admin_key or not hmac.compare_digest(x_admin_key, settings.admin_api_key):

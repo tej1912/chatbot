@@ -32,9 +32,21 @@ def price_table() -> dict[str, tuple[float, float]]:
     return table
 
 
+def is_free_model(model: str | None) -> bool:
+    """OpenRouter free models: ids ending in ":free", plus the "openrouter/free" router."""
+    return bool(model) and (model.endswith(":free") or model == "openrouter/free")
+
+
+def is_priced(model: str | None) -> bool:
+    """True when we know what the model costs (including free models, which cost 0)."""
+    return bool(model) and (model in price_table() or is_free_model(model))
+
+
 def estimate_cost(model: str | None, input_tokens: int, output_tokens: int) -> float:
     """USD estimate; 0.0 for an unknown model (the dashboard flags those as unpriced)."""
     if not model:
+        return 0.0
+    if is_free_model(model):
         return 0.0
     price = price_table().get(model)
     if not price:

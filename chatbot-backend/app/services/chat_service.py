@@ -25,6 +25,13 @@ BUDGET_MESSAGE = (
 DEBUG_SENTINEL = "\x00DEBUG\x00"
 
 
+def _record_real_model(trace, stream, tier: str, estimated_in: int) -> None:
+    """If a fallback model answered, record it (not Groq) so the dashboard shows the truth."""
+    real = getattr(stream, "model", None)
+    if real and real != trace.llm.get("model"):
+        trace.generation(real, tier, estimated_in)
+
+
 def handle_chat(
     db: Session, session_id: str, message: str, category: str | None, debug: bool = False
 ) -> Iterator[str]:
@@ -182,18 +189,22 @@ def _handle_chat(
     model = settings.groq_fast_model if tier == "fast" else settings.groq_complex_model
     trace.generation(model, tier, estimated_in)
     trace.mark("llm_start")
+    stream = None
     try:
-        for delta in llm.stream_completion(message, context_chunks, history, tier):
+        stream = llm.stream_completion(message, context_chunks, history, tier)
+        for delta in stream:
             full_answer += delta
             yield delta
     except Exception:
         logger.exception("LLM streaming failed (tier=%s) for message=%r", tier, message)
         trace.note(outcome="error_llm")
+        _record_real_model(trace, stream, tier, estimated_in)
         if not full_answer:
             yield UPSTREAM_BUSY_MESSAGE
         return  # partial answer already streamed stays visible; nothing cached
 
     trace.mark("llm_end")
+    _record_real_model(trace, stream, tier, estimated_in)
     if not full_answer.strip():
         trace.note(outcome="error_empty_answer")
         yield GENERIC_ERROR_MESSAGE

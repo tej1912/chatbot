@@ -103,7 +103,7 @@ def stats(days: int = Query(30, ge=1, le=365), db: Session = Depends(get_db)):
             "input_tokens": int(i),
             "output_tokens": int(o),
             "cost_usd": _round(c),
-            "priced": m in prices,
+            "priced": pricing.is_priced(m),
         }
         for m, n, i, o, c in db.query(
             ChatEvent.model,
