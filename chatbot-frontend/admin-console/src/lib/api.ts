@@ -1,7 +1,5 @@
 import type { Conversation, ConversationPage, DocumentRow, Health, IngestResult, Pricing, Stats, Usage } from "./types";
 
-export class AuthError extends Error {}
-
 export interface Client {
   base: string;
   usage(): Promise<Usage>;
@@ -16,11 +14,11 @@ export interface Client {
   health(): Promise<Health>;
 }
 
-export function makeClient(base: string, key: string): Client {
+export function makeClient(base: string): Client {
   const root = base.replace(/\/+$/, "");
 
   async function req<T>(method: string, path: string, json?: unknown): Promise<T> {
-    const headers: Record<string, string> = { "X-Admin-Key": key };
+    const headers: Record<string, string> = {};
     if (json !== undefined) headers["Content-Type"] = "application/json";
     let r: Response;
     try {
@@ -31,7 +29,6 @@ export function makeClient(base: string, key: string): Client {
     const text = await r.text();
     let data: any = null;
     try { data = text ? JSON.parse(text) : null; } catch { /* not json */ }
-    if (r.status === 401 || r.status === 403) throw new AuthError("Wrong admin password.");
     if (!r.ok) {
       const d = data?.detail;
       throw new Error((typeof d === "string" ? d : d ? JSON.stringify(d) : "") || `Request failed (${r.status})`);
@@ -60,12 +57,10 @@ export function makeClient(base: string, key: string): Client {
         if (o.category) fd.append("category", o.category);
         const x = new XMLHttpRequest();
         x.open("POST", root + "/v1/ingest/pdf");
-        x.setRequestHeader("X-Admin-Key", key);
         x.upload.onprogress = (e) => { if (e.lengthComputable) o.onProgress?.(Math.round((e.loaded / e.total) * 100)); };
         x.onload = () => {
           let j: any = null;
           try { j = JSON.parse(x.responseText); } catch { /* ignore */ }
-          if (x.status === 401 || x.status === 403) return reject(new AuthError("Wrong admin password."));
           if (x.status >= 200 && x.status < 300) return resolve(j as IngestResult);
           reject(new Error(typeof j?.detail === "string" ? j.detail : `Failed (${x.status})`));
         };

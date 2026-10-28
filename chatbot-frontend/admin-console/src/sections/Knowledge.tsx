@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState, type DragEvent, type FormEvent } from "react";
 import { useApp } from "../lib/ctx";
-import { AuthError } from "../lib/api";
 import { useAsync } from "../lib/useAsync";
 import { dateOnly, num } from "../lib/format";
 
@@ -22,7 +21,7 @@ export function Knowledge() {
   const [search, setSearch] = useState("");
   const input = useRef<HTMLInputElement>(null);
 
-  const existing = new Set((docs.data ?? []).map((d) => d.title.trim().toLowerCase()));
+  const existing = new Set((Array.isArray(docs.data) ? docs.data : []).map((d) => d.title.trim().toLowerCase()));
   const patch = (id: number, p: Partial<QItem>) => setQueue((q) => q.map((x) => (x.id === id ? { ...x, ...p } : x)));
 
   // warn before closing the tab in the middle of an upload
@@ -66,7 +65,6 @@ export function Knowledge() {
         ok++;
       } catch (x) {
         patch(it.id, { status: "bad", msg: x instanceof Error ? x.message : "Failed" });
-        if (x instanceof AuthError) { onError(x); break; }
       }
     }
     setBusy(false); docs.reload();
