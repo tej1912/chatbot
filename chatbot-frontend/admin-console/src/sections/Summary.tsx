@@ -12,7 +12,7 @@ export function Summary({ stats }: { stats: Stats | null }) {
           <Tile k="Questions" v={num(t.messages)} s={`${num(t.sessions)} visitors`} />
           <Tile k="Answer rate" v={pct(t.answer_rate)} s={`${num(t.not_answered)} not answered`} />
           <Tile k="Avg. response" v={(t.avg_latency_ms / 1000).toFixed(1) + "s"} s={`confidence ${(t.avg_confidence || 0).toFixed(2)}`} />
-          <Tile k="Estimated cost" v={usd(t.cost_usd)} s={`${usd(t.cost_per_llm_answer_usd)} per AI answer`} accent />
+          <Tile k="Estimated cost" v={usd(t.cost_usd)} s={`${usd(t.cost_per_llm_answer_usd)} per AI answer`} />
           <Tile k="Tokens in / out" v={`${compact(t.input_tokens)} / ${compact(t.output_tokens)}`} s={`${num(t.cache_hits)} answers from cache (free)`} />
         </>}
       </div>

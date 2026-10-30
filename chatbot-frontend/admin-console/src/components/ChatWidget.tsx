@@ -8,11 +8,11 @@ interface Session { token: string; exp: number }
 
 const KEY = "sb_admin_chat_session";
 const WELCOME = "Hello! Welcome to SmartBusiness Solutions. How can I help you with high-volume check printing, bank compliance, or Clock In / Clock Out attendance today?";
-const CHIPS = [
-  "How does batch check printing & dispatch work?",
-  "Tell me about Clock In Clock Out attendance",
-  "Are checks compliant with Federal Reserve MICR standards?",
-  "What are the pricing tiers for high volume?",
+const CHIPS =[
+  'How does batch check printing work?',
+  'Tell me about Clock In Clock Out attendance',
+  'How long is the free trial, and do I need a credit card?',
+  'Is my bank account information secure?',
 ];
 let seq = 0;
 const clock = () => new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });

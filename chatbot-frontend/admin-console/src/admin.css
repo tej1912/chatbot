@@ -124,6 +124,7 @@ tr.detail td{background:#fafaff;white-space:pre-wrap;word-break:break-word}
 section#summary{margin-bottom:18px}
 #knowledge,#conversations{scroll-margin-top:80px}
 .grid2>#knowledge{min-width:0}
+.grid2.know{grid-template-columns:1fr}
 
 /* knowledge / upload */
 .know{margin-bottom:18px;align-items:start}

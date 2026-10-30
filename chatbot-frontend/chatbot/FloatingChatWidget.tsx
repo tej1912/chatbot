@@ -21,7 +21,7 @@ interface FloatingChatWidgetProps {
 // ---------- backend connection ----------
 const API_BASE: string = (
   ((import.meta as unknown as { env?: Record<string, string | undefined> }).env?.VITE_CHAT_API_URL) ||
-  'http://localhost:8000'
+  'http://localhost:8001'
 ).replace(/\/+$/, '');
 
 const SESSION_KEY = 'sb_chat_session';
@@ -130,10 +130,10 @@ const Markdown: React.FC<{ text: string }> = ({ text }) => (
 const WELCOME_TEXT =
   'Hello! Welcome to SmartBusiness Solutions. How can I help you with high-volume check printing, bank compliance, or Clock In / Clock Out attendance today?';
 const WELCOME_ACTIONS = [
-  'How does batch check printing & dispatch work?',
+  'How does batch check printing work?',
   'Tell me about Clock In Clock Out attendance',
-  'Are checks compliant with Federal Reserve MICR standards?',
-  'What are the pricing tiers for high volume?',
+  'How long is the free trial, and do I need a credit card?',
+  'Is my bank account information secure?',
 ];
 const makeWelcome = (id: string): ChatMessage => ({
   id,
@@ -253,7 +253,7 @@ export const FloatingChatWidget: React.FC<FloatingChatWidgetProps> = ({
         suggestedActions: [
           'How does batch check printing work?',
           'Clock In Clock Out features',
-          'Explore pricing tiers'
+          'How do I set up my printer for checks?'
         ]
       }
     ]);
